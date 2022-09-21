@@ -4,7 +4,7 @@ The aim of this project is to make you code a function that returns a line, read
 
 ## Table of contents
 
-- [CS50’s Web Programming with Python and JavaScript - Search solution](#cs50s-web-programming-with-python-and-javascript---search-solution)
+- [Get_next_line](#42 cursus)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [The project](#the-project)
