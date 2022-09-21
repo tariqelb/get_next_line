@@ -4,7 +4,7 @@ The aim of this project is to make you code a function that returns a line, read
 
 ## Table of contents
 
-- [Get_next_line](#42 cursus)
+- [GetNextLine](#42 cursus)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [The project](#the-project)
